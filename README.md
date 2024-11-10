@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm currently a Network Engineer with a growing in
 ### Node.js App with MongoDB on Kubernetes
 - _Description:_ Node.js application interacts with MongoDB includes health checks, readiness probes, and metrics for monitoring with Prometheus and Grafana.
 - _Technologies Used:_ k8s, Prometheus, Grafana.
-- _Link:_ https://github.com/Dakuchi/online-shop-microservices
+- _Link:_ https://github.com/Dakuchi/Nodejs-app
 ## 📫 How to Reach Me
 
 Feel free to reach out if you want to discuss networking, DevOps, or cloud technologies!
