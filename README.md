@@ -30,12 +30,13 @@ Welcome to my GitHub profile! I'm currently a Network Engineer with a growing in
 - _Description:_ Automate various infrastructure and application deployment tasks. Each project is tailored for specific use cases, including deploying services on AWS, managing Kubernetes clusters, and setting up Docker environments.
 - _Technologies Used:_ Terraform, Ansible.
 - _Link:_ https://github.com/Dakuchi/ansible-project
-
-### Provisoning Infrastructure with Terraform
-
-- _Description:_ Demonstrating different aspects of Terraform for AWS infrastructure provisioning.
-- _Technologies Used:_ Terraform
 - _Link:_ https://github.com/Dakuchi/terraform-project
+
+### Google Online Boutique Microservices Deployment on Kubernetes
+
+- _Description:_ Demonstrating deployment of Google Online Boutique microservices demo (an e-commerce application) on a Kubernetes (K8s) cluster.
+- _Technologies Used:_ Kubernetes,helm, Prometheus, Grafana
+- _Link:_ https://github.com/Dakuchi/online-shop-microservices
 
 ### AWS Automation Scripts with Python
 
